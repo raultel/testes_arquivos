@@ -1,0 +1,15 @@
+Testes sobre gerenciamento a lista
+X1. Topo do cabeçalho é -1
+X2. Insere imediatamente no registro do topo
+X3. Pula N registros, então insere
+X4. Insere no ultimo registro da lista 
+X5. Não acha nenhum registro com tamanho grande o suficiente
+
+Testes sobre Escrever o registro
+X6. Inserir um registro com campos nulos
+X7. Inserir registro com todos os campos variaveis nulos
+X8. Inserir com tamanho exato
+
+bad input
+Arquivo não existe
+cabeçalho n existe
